@@ -1,0 +1,8 @@
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Fri, 16 Oct 2026 09:22:32 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Transfer-Encoding: chunked
+
+[{"id":1,"title":"Тунгалаг Тамир","author":"Ч.Лодойдамба","year":1971},{"id":3,"title":"The Pragmatic Programmer","author":"D.Thomas & A.Hunt","year":1999},{"id":4,"title":"Толгодын бүдэг бараа","author":"Казүо Ишигүро","year":"2026"},{"id":7,"title":"Гялбаа2","author":"Юн Фоссэ","year":"2023"},{"id":8,"title":"Гялбаа3","author":"Юн Фоссэ","year":"2023"},{"id":9,"title":"Гялбаа4","author":"Юн Фоссэdew","year":"2023"},{"id":16,"title":"","author":"","year":""},{"id":18,"title":"","author":""},{"id":19,"title":"T","author":"A","year":"abc"},{"id":20,"title":"&lt;b&gt;test&lt;/b&gt;","author":"Tom &amp; Jerry","year":"2020"},{"id":21,"title":"aaaaa","author":"aaaa","year":"-2020"}]
